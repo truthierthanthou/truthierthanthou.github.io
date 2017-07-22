@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1168 150" style="enable-background:new 0 0 1168 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3D5A6C;}
+	.st1{fill:#4A4A4A;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'SourceSansPro-Bold';}
+	.st4{font-size:48.0608px;}
+	.st5{fill:#D8D8D8;}
+	.st6{font-family:'SourceSansPro-Regular';}
+	.st7{font-size:21.4815px;}
+</style>
+<rect id="Bg" x="1" class="st0" width="1167" height="150"/>
+<g>
+	
+		<image style="overflow:visible;opacity:0.5;" width="656" height="448" xlink:href="ED3DB8A3B3E439AB.png"  transform="matrix(1 0 0 1 -18 -38)">
+	</image>
+	<g>
+		<g>
+			<defs>
+				<polygon id="Rectangle-7_7_" points="0,0 391.1,0 343.1,150 0,150 				"/>
+			</defs>
+			<clipPath id="Rectangle-7_1_">
+				<use xlink:href="#Rectangle_x002D_7_7_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#Rectangle-7_1_);">
+				
+					<image style="overflow:visible;" width="1920" height="1281" xlink:href="cyclist-394274_1920.jpg"  transform="matrix(0.3254 0 0 0.3254 -9.2843 -29.0018)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<line class="st1" x1="390.8" y1="0" x2="342.8" y2="150"/>
+<text transform="matrix(1 0 0 1 426.0001 70.4365)" class="st2 st3 st4">Be Seen by Machines</text>
+<text transform="matrix(1 0 0 1 426.0001 103.1123)" class="st5 st6 st7">Protect Yourself from Self-Driving Cars</text>
+<image style="overflow:visible;" width="589" height="192" xlink:href="../Dropbox/Grad school/Masters Project-Lori Navarro/Prototypes/mid-fi/images/06/shazam.png"  transform="matrix(0.131 0 0 0.131 1055.1793 90.533)">
+</image>
+</svg>
