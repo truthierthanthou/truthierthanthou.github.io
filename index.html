@@ -108,13 +108,13 @@ html.chat {
 	color: #353531;
 	font-family: Roboto;
 	font-size: 14px;
+	background-image: url('images/01/Modal.png');
+	background-size: cover;
+	overflow: hidden;
 }
 
 html.chat body {
 	background-color: #4A4A4A;
-  	background-image: url('images/01/Modal.png');
-	background-size: cover;
-  	overflow: hidden;
 }
 
 html.chat .chatbox {
@@ -336,7 +336,6 @@ html.shazam {
 
 
 
-
 </style><script role="script" id="twine-user-script" type="text/twine-javascript">var _engine = Engine;
 window._engine = _engine;
 var _state = State;
@@ -408,7 +407,6 @@ if (prop[0] === '$') {
 _state.variables[prop] = val;
 }
 window.setHarloweVariable = setHarloweVariable;
-
 
 
 
@@ -1911,7 +1909,7 @@ html.splash-05 .btn {
 &lt;/div&gt;
 (display: &quot;chat-popup-02&quot;)
 (display: &quot;notification&quot;)</tw-passagedata><tw-passagedata pid="62" name="chat-popup-02" tags="" position="1147,3">{
-(set: $philippacount_max to 7)
+(set: $philippacount_max to 8)
 (display: &quot;chat-popup-css&quot;)
 (display: &quot;trolley-css&quot;)
 &lt;style&gt;
@@ -1941,7 +1939,7 @@ progress[value]::-webkit-progress-bar, progress[value]::-webkit-progress-value {
   Setting up your account. Be right back!
   &lt;/span&gt;
   (print: &#x27; &lt;progress value=&quot;&#x27; + (text: $philippacount) + &#x27;&quot; max=&quot;&#x27; + (text: $philippacount_max) + &#x27;&quot;&gt;&lt;/progress&gt;&#x27;)
-&lt;/span&gt;</tw-passagedata><tw-passagedata pid="63" name="chat-popup-css" tags="" position="892,7">{&lt;style&gt;
+&lt;/span&gt;</tw-passagedata><tw-passagedata pid="63" name="chat-popup-css" tags="" position="893,6">{&lt;style&gt;
 .chatbot {
 	background: #FFFFFF;
 	box-shadow: 0 0 2px 0 rgba(0,0,0,0.12), 0 2px 2px 0 rgba(0,0,0,0.24);
@@ -2337,7 +2335,7 @@ $(&quot;.reaction&quot;).click(function() {
 (display: &quot;chat-popup-02&quot;)
 }</tw-passagedata><tw-passagedata pid="67" name="footer-blastfeed" tags="" position="701,1443">{&lt;div class=&quot;footer&quot;&gt;
 BLASTFeed is the leading source of verified, people-generated news.&lt;br&gt;© 2023, BLASTFeed Inc.
-&lt;/div&gt;}</tw-passagedata><tw-passagedata pid="68" name="DeclassifyFooter" tags="declassify" position="291,1581">{
+&lt;/div&gt;}</tw-passagedata><tw-passagedata pid="68" name="DeclassifyFooter" tags="declassify" position="292,1580">{
 &lt;style&gt;
 
 .footer {
@@ -2392,7 +2390,7 @@ tw-link:hover {
 
 &lt;div class=&quot;footer&quot;&gt;
 	&lt;div class=&quot;ad&quot;&gt;
-		&lt;img src=&quot;images/06/ad-image.png&quot;&gt;&lt;/img&gt;
+		&lt;img src=&quot;images/06/ad-image.png&quot;/&gt;
 		&lt;span class=&quot;shazam&quot;&gt;(link: &quot;Shop Now&quot;)[(go-to: &quot;06-01&quot;)]&lt;/span&gt;
 	&lt;/div&gt;
 &lt;/div&gt; &lt;!--footer--&gt;
